@@ -19,7 +19,8 @@ public class SalarioBase {
             salario *= 1.05;
         }
 
-        imposto = salario * 0.7f;
+        imposto = salario * 0.93f;
+
         System.out.printf("O salário bruto é de R$ %.2f e o líquido é de R$ %.2f%n", salario, imposto);
     }
 }
