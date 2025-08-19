@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Compilação do Java
+*.class
+out/
+build/
+
+# IntelliJ IDEA
+*.iml
+.idea/
+*.iws
+*.ipr
+out/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Sistema
+*.swp
