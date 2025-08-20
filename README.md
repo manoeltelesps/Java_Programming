@@ -1,11 +1,22 @@
-# Estudos em Java
+# ☕ Java Programming
 
-Este repositório contém meus projetos e estudos na linguagem Java. É um espaço para registrar meu progresso e aprendizado.
+> Estudos e projetos com Java
 
------
+## 📖 Sobre
 
-### Autor
+Repositório com exercícios, projetos e materiais de programação Java.
 
-  * **Manoel Teles**
-  * **LinkedIn:** [Manoel Pedro](https://www.linkedin.com/in/manoeltelesps)
+## 🚀 Tecnologias
+
+- Java (JDK 11+)
+
+## 📁 Conteúdo
+
+- Fundamentos da linguagem
+- Programação orientada a objetos
+- Projetos práticos
+
+---
+**Desenvolvido por [Manoel Pedro](https://www.linkedin.com/in/manoeltelesps)**
+=
 
