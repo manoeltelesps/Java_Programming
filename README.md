@@ -1,22 +1,7 @@
-# ☕ Java Programming
+# Java Programming ☕
+Este repositório contém estudos, exercícios e projetos desenvolvidos com a linguagem Java. O foco está em conceitos de programação orientada a objetos, estruturas de dados e desenvolvimento de aplicações práticas.
 
-> Estudos e projetos com Java
-
-## 📖 Sobre
-
-Repositório com exercícios, projetos e materiais de programação Java.
-
-## 🚀 Tecnologias
-
-- Java (JDK 11+)
-
-## 📁 Conteúdo
-
-- Fundamentos da linguagem
-- Programação orientada a objetos
-- Projetos práticos
-
----
-**Desenvolvido por [Manoel Pedro](https://www.linkedin.com/in/manoeltelesps)**
-=
-
+-----
+### Autor
+**Manoel Teles**  
+**LinkedIn:** [Manoel Pedro](https://www.linkedin.com/in/manoeltelesps)
