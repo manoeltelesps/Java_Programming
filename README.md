@@ -7,4 +7,4 @@ Este repositório contém meus projetos e estudos na linguagem Java. É um espa�
 ### Autor
 
   * **Manoel Teles**
-  * **GitHub:** [manoeltelesps](https://www.google.com/search?q=https://github.com/manoeltelesps)
+  * **LinkedIn:** [manoeltelesps](https://www.linkedin.com/in/manoeltelesps)
