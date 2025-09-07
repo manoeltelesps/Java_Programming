@@ -5,6 +5,7 @@ public class Carro {
     private int ano;
     private boolean ligado;
 
+    //Construtor
     public Carro(String p_modelo, String p_cor, int p_ano){
         this.modelo = p_modelo;
         this.cor = p_cor;
@@ -30,6 +31,10 @@ public class Carro {
         else {
             System.out.println("O carro já está desligado");
         }
+    }
+
+    public void propietario(Pessoa p){
+        System.out.println("Propietário do carro é " + p.getNome());
     }
 
     public String getModelo() { return modelo; }
