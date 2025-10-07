@@ -9,13 +9,22 @@ package com.mycompany.escolamusica;
  * @author manoeltelesps
  */
 public class Piano extends InstrumentoMusical{
-    
-    public Piano(String nome){
-        super("Nome");
+    private int qtdTeclas;
+
+    public Piano(String nome, String material, int qtdTeclas) {
+        super(nome, "Teclas", material);
+        this.qtdTeclas = qtdTeclas;
     }
-    
-    @Override 
-    public void tocar(){
-        System.out.println("Piano toca: plim plim plim...");
+
+    @Override
+    public void tocar() {
+        System.out.println("Piano toca: plim plom plim...");
+    }
+
+    /**
+     * @return the qtdTeclas
+     */
+    public int getQtdTeclas() {
+        return qtdTeclas;
     }
 }

@@ -10,12 +10,20 @@ package com.mycompany.escolamusica;
  */
 public abstract class InstrumentoMusical {
     
-    private String nome;
-    
-    public InstrumentoMusical(String nome){
+    protected String nome;
+    protected String tipo;
+    protected String material;
+
+    public InstrumentoMusical(String nome, String tipo, String material) {
         this.nome = nome;
+        this.tipo = tipo;
+        this.material = material;
     }
     
+    public void afinar() {
+        System.out.println(nome + " afinando...");
+    }
+
     public abstract void tocar();
 
     /**
@@ -24,4 +32,19 @@ public abstract class InstrumentoMusical {
     public String getNome() {
         return nome;
     }
+
+    /**
+     * @return the tipo
+     */
+    public String getTipo() {
+        return tipo;
+    }
+
+    /**
+     * @return the material
+     */
+    public String getMaterial() {
+        return material;
+    }
+
 }
