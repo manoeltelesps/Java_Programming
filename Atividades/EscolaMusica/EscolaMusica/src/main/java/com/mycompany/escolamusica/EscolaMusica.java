@@ -20,8 +20,6 @@ public class EscolaMusica {
         banda[2] = new Bateria("Bateria Acustica", "Madeira e Metal", 5);
         banda[3] = new Saxofone("Saxofone", "Latão", "Alto");
         
-        EscolaMusica escola = new EscolaMusica();
-        
         System.out.println("=== AFINANDO INSTRUMENTOS ===");
         for (InstrumentoMusical i : banda) {
             i.afinar();
@@ -40,9 +38,9 @@ public class EscolaMusica {
         
         if (primeiro instanceof Violao) {
             Violao v = (Violao) primeiro;
-            System.out.println("Qtd de cordas: " + v.getQtdCordas());
+            System.out.println("Qauntidade de cordas: " + v.getQtdCordas());
         } else {
-            System.out.println("Qtd de cordas: N/A");
+            System.out.println("Quantidade de cordas: Nenhuma");
         }
     }
 }
