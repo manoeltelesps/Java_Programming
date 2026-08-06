@@ -1,7 +1,19 @@
-# Java Programming ☕
-Este repositório contém estudos, exercícios e projetos desenvolvidos com a linguagem Java. O foco está em conceitos de programação orientada a objetos, estruturas de dados e desenvolvimento de aplicações práticas.
+# ☕ Java Programming
 
------
-### Autor
-**Manoel Teles**  
-**LinkedIn:** [Manoel Pedro](https://www.linkedin.com/in/manoeltelesps)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+Estudos, exercícios e projetos desenvolvidos em Java, com foco em programação orientada a objetos, estruturas de dados e aplicações práticas.
+
+## 📂 Estrutura
+
+| Pasta | Descrição |
+|---|---|
+| `Aulas/AbstracaoAnimais/` | Abstração e polimorfismo — hierarquias de animais, formas e veículos |
+| `Aulas/CarroHeranca/` | Herança — Carro / Pessoa |
+| `Aulas/CompanhiaHeranca/` | Herança — Funcionário / Gerente |
+| `Atividades/EscolaMusica/` | Projeto Maven — escola de música com instrumentos polimórficos |
+| `Atividades/Exercicios_1/` | Lista de exercícios — Scanner, médias, cálculo de salários |
+
+---
+
+**Autor:** Manoel Teles · [LinkedIn](https://www.linkedin.com/in/manoeltelesps)
