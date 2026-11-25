@@ -1,0 +1,6 @@
+[submodule "Projetos/ToDoListApp/ToDoListJava"]
+	path = Projetos/ToDoListApp/ToDoListJava
+	url = https://github.com/kenaygn/ToDoListJava.git
+[submodule "Projetos/ProjetoAviao/ProjetoAviao"]
+	path = Projetos/ProjetoAviao/ProjetoAviao
+	url = https://github.com/keitiely/ProjetoAviao.git
